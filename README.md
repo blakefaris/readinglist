@@ -26,5 +26,5 @@ I have too many places where I stick random links, random book titles, so now I 
 ## NextJS
 
 ### Online
- * [Getting Started](https://nextjs.org/learn/)
+ * ~~[Getting Started](https://nextjs.org/learn/)~~ [nextjs](https://github.com/blakefaris/nextjs)
 
