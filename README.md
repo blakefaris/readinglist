@@ -7,6 +7,8 @@ I have too many places where I stick random links, random book titles, so now I 
 
 I have an account at [Safari Books Online](https://www.safaribooksonline.com/accounts/login/?next=/register-topics/) that allows me to read digital copies and other cool stuff.
 
+~~Crossed~~ off items are ones that I have completed, and found valuable to have it remain.
+
 ## JavaScript
 
 ### Online
