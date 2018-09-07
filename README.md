@@ -6,6 +6,8 @@ When onboarding new talent, as well as keeping fresh myself it is important to k
 I have too many places where I stick random links, random book titles, so now I am going to start placing them here.  This way as I get rid of stuff I complete, no longer like... I can at least track my history.
 
 ## JavaScript
+
+### Online
  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
  * [Functional Light JavaScript](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/preface.md/#preface)
 
