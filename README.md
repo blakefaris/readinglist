@@ -23,6 +23,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
 ### Online
  * [MobX State Tree Getting Started](https://github.com/mobxjs/mobx-state-tree/blob/master/docs/getting-started.md)
  * [How to Manage Your JavaScript Application State with MobX](https://www.sitepoint.com/manage-javascript-application-state-mobx/)
+ * [Practical forms with React and Mobx](https://slides.com/mattruby/practical-forms-with-react-and-mobx#/)
 
 ### Videos
  * [Practical React with MobX](https://www.youtube.com/watch?v=XGwuM_u7UeQ)
