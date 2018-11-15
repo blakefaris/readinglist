@@ -26,7 +26,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
  * [Practical forms with React and Mobx](https://slides.com/mattruby/practical-forms-with-react-and-mobx#/)
 
 ### Videos
- * [Practical React with MobX](https://www.youtube.com/watch?v=XGwuM_u7UeQ)
+ * ~~[Practical React with MobX](https://www.youtube.com/watch?v=XGwuM_u7UeQ)~~ [takeaways](practicalReactWithMobX.md)
 
 ## NextJS
 
