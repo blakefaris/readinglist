@@ -13,7 +13,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
 
 ### Online
  * ~~[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)~~
- * [Functional Light JavaScript](https://github.com/getify/Functional-Light-JS)
+ * [Functional Light JavaScript](https://github.com/getify/Functional-Light-JS) *bookmark: Chapter 6*
 
 ## Mobx
 
