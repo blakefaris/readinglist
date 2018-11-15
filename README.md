@@ -32,4 +32,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
 
 ### Online
  * ~~[Getting Started](https://nextjs.org/learn/)~~ [nextjs](https://github.com/blakefaris/nextjs)
+ 
+## Productivity
+ * ~~[Happy Secret to Better Work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work#t-222635)~~
 
