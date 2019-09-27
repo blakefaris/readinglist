@@ -40,6 +40,9 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
  
 ## Productivity
 
+### Books
+ * ~~[Dare to Lead](https://www.amazon.com/1785042149-9781785042140-Dare-Lead-Hearts-Paperback/dp/B07NRVL3VM/ref=sr_1_3?keywords=dare+to+lead&qid=1569598990&s=gateway&sr=8-3)~~
+
 ### Online
  * ~~[Being a Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html)~~
 
