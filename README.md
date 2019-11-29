@@ -46,6 +46,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
 ### Online
  * ~~[Being a Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html)~~
  * ~~[Coaching Tools – The Narrative](https://svpg.com/coaching-tools-the-narrative)~~
+   * ~~[Using 6 Page and 2 Page Documents To Make Organizational Decisions](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909)~~
 
 ### Videos
  * ~~[Happy Secret to Better Work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work#t-222635)~~ [takeaways](happySecretToBetterWork.md)
