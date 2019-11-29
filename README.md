@@ -49,6 +49,7 @@ I have an account at [Safari Books Online](https://www.safaribooksonline.com/acc
    * ~~[Coaching Tools – The Narrative](https://svpg.com/coaching-tools-the-narrative)~~
    * ~~[Using 6 Page and 2 Page Documents To Make Organizational Decisions](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909)~~
    * ~~[What might Amazon’s six-page narrative structure look like?](https://www.anecdote.com/2018/05/amazons-six-page-narrative-structure/)~~
+   * ~~[Exploring Cognitive Engagement in Amazon’s Six Page Narratives](https://use-cases.org/2018/04/23/exploring-cognitive-engagement-in-amazons-six-page-narratives/)~~
 
 ### Videos
  * ~~[Happy Secret to Better Work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work#t-222635)~~ [takeaways](happySecretToBetterWork.md)
